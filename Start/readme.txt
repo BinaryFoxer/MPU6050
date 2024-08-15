@@ -1,0 +1,5 @@
+Note:
+startup_.s 文件为stm32程序启动文件
+stm32f10x.h 文件为stm32寄存器配置文件
+system 文件为stm32时钟配置文件
+core 文件为stm32内核寄存器配置及部分程序文件
